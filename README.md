@@ -3,7 +3,7 @@ Final project for CSC258: Computer Architecture
 <br/><br/>
 Coded in MIPS architecture
 <br/><br/>
-Based of the classic Atari arcade came <a>
+Based of the classic Atari arcade game [Centipede®](url)https://en.wikipedia.org/wiki/Centipede_(video_game)
 ![image](https://user-images.githubusercontent.com/53841219/119232864-afd9b880-baf4-11eb-8bf2-c278505dca2f.png)
 
 ##Rules
