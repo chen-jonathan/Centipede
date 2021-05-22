@@ -17,3 +17,11 @@ Use your Bug Blaster (blue square) and shoot the 10-piece centipede before it wr
 * j - Move Bug Blaster left
 * k - Move Bug Blaster right
 * r - Replay game (at "BYE" screen)
+
+## Configuration
+Bitmap Display Configuration: 
+*  Unit width in pixels: 8  
+*  Unit height in pixels: 8
+*  Display width in pixels: 256
+*  Display height in pixels: 256
+*  Base Address for Display: 0x10008000 ($gp)
